@@ -35,3 +35,4 @@ count=1
 工具 --> 配色方案 -->导入–>选择刚刚创建的XTerm.xcs–> 选择覆盖–>确认
 
 # 效果图：
+![效果图](https://github.com/heooos/XShell-color-schemes/blob/master/img_raw/example.jpg?raw=true)
